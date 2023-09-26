@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with me  
+<div align="center">
+<a href="https://discord.com/users/622541545916334080" target="_blank">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYIMdDPeVXniIbWsQlFscJo49DV5YiKXvn64fKdTaSUmwvh5hTkSZ5Qglc2iGV9gTNag&usqp=CAU alt=Discord style="margin-bottom: 5px;" />
+</a>
